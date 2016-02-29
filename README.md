@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Diving in Github to enjoy developing with amazing developers!!
